@@ -1,0 +1,9 @@
+syntax: glob
+.idea
+*.iml
+*.orig
+target/
+
+syntax: regexp
+syntax: glob
+*.bak
